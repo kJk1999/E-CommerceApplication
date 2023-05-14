@@ -1,0 +1,31 @@
+/* Write your CSS code here */
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 40px;
+  font-family: 'Roboto';
+}
+
+.navigation-buttons {
+  display: flex;
+  list-style-type: none;
+}
+
+.logout-button {
+  align-self: center;
+  color: white;
+  background-color: #0b69ff;
+  border-width: 0px;
+  cursor: pointer;
+  width: 100px;
+  height: 35px;
+}
+
+.logo {
+  width: 200px;
+}
+.list-element {
+  margin: 10px;
+  align-self: center;
+  font-size: 20px;
+}

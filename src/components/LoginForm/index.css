@@ -1,0 +1,48 @@
+/* Write your CSS code here */
+.login-image {
+  width: 50%;
+}
+
+.login-logo {
+  width: 200px;
+}
+
+.login-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-family: 'Roboto';
+  min-height: 100vh;
+}
+
+.input-card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+
+  margin-bottom: 10px;
+}
+.login-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  padding: 20px;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.inputEl {
+  height: 30px;
+}
+.login-button {
+  width: 100%;
+  background-color: #0b69ff;
+  color: white;
+  height: 35px;
+}
+.link-styling {
+  text-decoration: none;
+}

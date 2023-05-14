@@ -1,0 +1,27 @@
+/* Write your CSS code here */
+.home-container {
+  display: flex;
+  font-family: 'Roboto';
+  padding: 20px;
+}
+h1 {
+  font-size: 60px;
+}
+.home-card {
+  margin-right: 40px;
+}
+.home-image {
+  width: 60%;
+}
+p {
+  font-size: 30px;
+}
+
+.button {
+  width: 130px;
+  height: 45px;
+  background-color: #0b69ff;
+  border-width: 0px;
+  outline: none;
+  color: white;
+}
